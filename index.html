@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌹 Quà Tặng 20/10 - Lớp [Tên Lớp Bạn] 🎁</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div id="heart-rain-container"></div> 
+
+    <header class="main-header">
+        <h1>Chúc Mừng Ngày Phụ Nữ Việt Nam 20/10 ❤️</h1>
+        <p>Gửi tới các bạn nữ những điều bất ngờ và lời chúc tốt đẹp nhất!</p>
+    </header>
+
+    <section class="search-section">
+        <input type="text" id="search-input" placeholder="🔍 Tìm kiếm tên bạn nữ...">
+    </section>
+
+    <main class="girls-container" id="girls-container">
+        </main>
+
+    <div id="safe-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2>🔐 KÉT SẮT CỦA BẠN 🔐</h2>
+            <p>Nhập mật mã gồm 4 chữ số:</p>
+            
+            <input type="text" id="passcode-display" maxlength="4" readonly placeholder="----">
+            
+            <div id="keypad">
+                <button class="keypad-btn" data-key="1">1</button>
+                <button class="keypad-btn" data-key="2">2</button>
+                <button class="keypad-btn" data-key="3">3</button>
+                <button class="keypad-btn" data-key="4">4</button>
+                <button class="keypad-btn" data-key="5">5</button>
+                <button class="keypad-btn" data-key="6">6</button>
+                <button class="keypad-btn" data-key="7">7</button>
+                <button class="keypad-btn" data-key="8">8</button>
+                <button class="keypad-btn" data-key="9">9</button>
+                <button class="keypad-btn clear-btn" data-key="C">Xóa</button>
+                <button class="keypad-btn" data-key="0">0</button>
+            </div>
+            
+            <p id="error-message" class="error-text"></p>
+        </div>
+    </div>
+    
+    <div id="video-modal" class="modal video-modal">
+        <div class="modal-content">
+            <span class="close-btn-video">&times;</span>
+            
+            <div id="greeting-area">
+                </div>
+
+            <div class="video-placeholder" id="video-placeholder">
+                </div>
+        </div>
+    </div>
+
+   <script src="js/script.js"></script>
+
+</body>
+</html>

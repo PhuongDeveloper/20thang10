@@ -1,0 +1,200 @@
+[
+  {
+    "id": "nguyen-a",
+    "name": "Nguyễn Thị A",
+    "dob": "15/03",
+    "passcode": "1503", 
+    "avatarUrl": "images/1.jpg", 
+    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
+    "greeting": "Chúc A luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này dành riêng cho cô gái tuyệt vời nhất." 
+  },
+  {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  },
+    {
+    "id": "tran-b",
+    "name": "Trần Thị B",
+    "dob": "20/09",
+    "passcode": "2009", 
+    "avatarUrl": "images/2.jpg", 
+    "videoLink": "https://www.youtube.com/embed/rVw-s99hRjA",
+    "greeting": "20/10 thật vui vẻ nhé B! Hãy luôn giữ nụ cười và sự nhiệt huyết này nhé. Yêu thương gửi đến bạn!"
+  }
+]

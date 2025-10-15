@@ -950,3 +950,59 @@ body {
         height: 12px;
     }
 }
+/* =============================================== */
+/* 8. VIDEO NAVIGATION */
+/* =============================================== */
+.video-navigation {
+    display: none; /* Sẽ được bật bằng JS nếu có nhiều hơn 1 video */
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 0 10px;
+}
+
+.nav-btn {
+    background-color: var(--main-pink);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 1em;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all var(--transition-fast);
+    box-shadow: 0 5px 15px rgba(255, 107, 129, 0.3);
+}
+
+.nav-btn:hover {
+    background-color: #f75c75;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(255, 107, 129, 0.5);
+}
+
+.nav-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+#video-counter {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: var(--text-color-dark);
+}
+
+/* Responsive cho phần navigation */
+@media (max-width: 576px) {
+    .video-navigation {
+        margin-top: 15px;
+    }
+    .nav-btn {
+        padding: 8px 12px;
+        font-size: 0.8em;
+    }
+    #video-counter {
+        font-size: 0.9em;
+    }
+}

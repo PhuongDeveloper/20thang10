@@ -426,18 +426,20 @@ body {
 /* 6. MODAL VIDEO & LỜI CHÚC */
 /* =============================================== */
 .video-modal .modal-content {
-    max-width: 900px; /* Giảm max-width */
-    padding: 40px;
+    max-width: 800px;  /* Giảm chiều rộng tối đa một chút */
+    padding: 30px;     /* Giảm padding để tiết kiệm không gian */
+    max-height: 95vh;  /* Giới hạn chiều cao tối đa là 95% chiều cao màn hình */
+    overflow-y: auto;  /* Thêm thanh cuộn nếu nội dung bị tràn */
 }
 
 /* Lời Chúc */
 #greeting-area {
-    margin-bottom: 30px;
+    margin-bottom: 25px; /* Giảm khoảng cách dưới một chút */
     padding: 20px;
     background-color: white; 
     border-radius: 20px; 
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-    animation: fadeIn 1s ease-out; /* Giảm thời gian animation */
+    animation: fadeIn 1s ease-out;
 }
 
 #greeting-area h2 {

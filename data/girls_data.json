@@ -16,7 +16,7 @@
     "passcode": "2010", 
     "avatarUrl": "images/cp.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Chúc Minh Anh luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này dành riêng cho cô gái tuyệt vời nhất." 
+    "greeting": "Chúc cô luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
   {
     "id": "manh",
@@ -24,8 +24,8 @@
     "dob": "10/11",
     "passcode": "1011", 
     "avatarUrl": "images/manh.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Chúc Minh Anh luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này dành riêng cho cô gái tuyệt vời nhất." 
+    "videoLink": "https://www.youtube.com/embed/7HtV0g-7KSc", 
+    "greeting": "Chúc Minh Anh luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "leha",
@@ -34,7 +34,7 @@
     "passcode": "1211", 
     "avatarUrl": "images/ha.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Hà luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "hang",
@@ -43,7 +43,7 @@
     "passcode": "2203", 
     "avatarUrl": "images/hang.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Hằng luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "hoa",
@@ -51,8 +51,8 @@
     "dob": "16/09",
     "passcode": "1609", 
     "avatarUrl": "images/hoa.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/Dy0Jek0VVAI", 
+      "greeting": "Chúc Hoa luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "lam",
@@ -61,7 +61,7 @@
     "passcode": "0902", 
     "avatarUrl": "images/lam.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Hoa luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "lan",
@@ -70,7 +70,7 @@
     "passcode": "1809", 
     "avatarUrl": "images/lan.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Lan luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "linh",
@@ -78,8 +78,8 @@
     "dob": "04/07",
     "passcode": "0407", 
     "avatarUrl": "images/linh.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/ngef2WFWPQc", 
+    "greeting": "Chúc Linh luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "mai",
@@ -88,7 +88,7 @@
     "passcode": "2311", 
     "avatarUrl": "images/mai.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Mai luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "my",
@@ -96,8 +96,8 @@
     "dob": "16/01",
     "passcode": "1601", 
     "avatarUrl": "images/my.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/4VHdt2NHCeM", 
+    "greeting": "Chúc My luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "ngan",
@@ -106,7 +106,7 @@
     "passcode": "2010", 
     "avatarUrl": "images/ngan.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Ngân luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -116,7 +116,7 @@
     "passcode": "1204", 
     "avatarUrl": "images/ngoc.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Ngọc luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -125,8 +125,8 @@
     "dob": "30/10",
     "passcode": "3010", 
     "avatarUrl": "images/như.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/wZqsQVu4NTE", 
+    "greeting": "Chúc Như luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "nuong",
@@ -135,7 +135,7 @@
     "passcode": "0402", 
     "avatarUrl": "images/nương.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Nương luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -144,8 +144,8 @@
     "dob": "16/09",
     "passcode": "1609", 
     "avatarUrl": "images/quỳnh.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/I82rfCds5N8", 
+      "greeting": "Chúc Quỳnh luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -154,8 +154,8 @@
     "dob": "08/01",
     "passcode": "0801", 
     "avatarUrl": "images/thuy.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/cv1iEoSmVv4", 
+    "greeting": "Chúc Thùy luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -164,8 +164,8 @@
     "dob": "20/02",
     "passcode": "2002", 
     "avatarUrl": "images/trang.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/nRMnyou48lE", 
+    "greeting": "Chúc Trang luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -175,7 +175,7 @@
     "passcode": "2906", 
     "avatarUrl": "images/tran.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Trân luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -184,8 +184,8 @@
     "dob": "21/04",
     "passcode": "2104", 
     "avatarUrl": "images/tuyet.jpg", 
-    "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "videoLink": "https://www.youtube.com/embed/Ym2JNZHlfzo", 
+    "greeting": "Chúc Tuyết luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
   ,
     {
@@ -195,7 +195,7 @@
     "passcode": "3005", 
     "avatarUrl": "images/uyen.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Uyên luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
     {
     "id": "yen",
@@ -204,6 +204,6 @@
     "passcode": "1605", 
     "avatarUrl": "images/yen.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
-    "greeting": "Lời Chúc" 
+    "greeting": "Chúc Yến luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   }
 ]

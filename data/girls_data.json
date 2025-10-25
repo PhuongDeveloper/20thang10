@@ -13,7 +13,7 @@
     "id": "cophuong",
     "name": "Cô Phượng",
     "dob": "07/03",
-    "passcode": "2010", 
+    "passcode": "0703", 
     "avatarUrl": "images/cp.jpg", 
     "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ", 
     "greeting": "Chúc cô luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
@@ -41,7 +41,7 @@
     "name": "Lầu Thị Hằng",
     "dob": "22/3",
     "passcode": "2203", 
-    "avatarUrl": "images/hang.jpg", 
+    "avatarUrl": "images/hang1.jpg", 
     "videoLink": "https://www.youtube.com/embed/L13Hx1eIXWE", 
     "greeting": "Chúc Hằng luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
@@ -193,7 +193,7 @@
     "name": "Vương Thu Uyên",
     "dob": "30/05",
     "passcode": "3005", 
-    "avatarUrl": "images/uyen.jpg", 
+    "avatarUrl": "images/uyen1.jpg", 
     "videoLink": "https://www.youtube.com/embed/xQrpFwCzqQE", 
     "greeting": "Chúc Uyên luôn rạng rỡ và đạt được mọi điều mong muốn! Quà nhỏ này là dành riêng cho bạn!." 
   },
